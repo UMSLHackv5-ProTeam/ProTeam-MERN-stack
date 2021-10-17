@@ -1,0 +1,1 @@
+mongodb+srv://eds2cv:propassword@cluster0.uavgy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
